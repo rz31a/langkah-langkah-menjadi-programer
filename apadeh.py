@@ -1,0 +1,1 @@
+print("kode dari apaadeh")
